@@ -18,7 +18,6 @@ if(workbox){
       { url: "/images/icon.png", revision: '1' },
       { url: "/images/banner.jpg", revision: '1' },
       { url: "/images/logo.png", revision: '1' },
-      { url: "/images/PL-Lion.png", revision: '1' },
       { url: "/images/jb-image.jpg", revision: '1' },
       { url: "/images/about-img.jpg", revision: '1' },
       { url: "/images/contact-img.jpg", revision: '1' },
@@ -34,6 +33,7 @@ if(workbox){
       { url: "/js/materialize.js", revision: '1' },
       { url: "/js/materialize.min.js", revision: '1' },
       { url: "/js/nav.js", revision: '1' },
+      { url: "/js/savedata.js", revision: '1' },
       { url: "/pages/about.html", revision: '1' },
       { url: "/pages/contact.html", revision: '1' },
       { url: "/pages/favorite-team.html", revision: '1' },
@@ -41,6 +41,7 @@ if(workbox){
       { url: "/pages/scorers.html", revision: '1' },
       { url: "/pages/standings.html", revision: '1' },
       { url: "/pages/teams.html", revision: '1' },
+      { url: "/pages/home.html", revision: '1' }
   ]);
 
   console.log('Workbox is working!');
