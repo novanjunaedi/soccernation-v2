@@ -1,0 +1,123 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.navcon {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
+  margin-top:5px;
+}
+
+.jumbotron {
+  background: url("../images/jb-image.jpg");
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+  margin-top: 0;
+  border: 0;
+  border-radius: 0;
+}
+
+.hero-text {
+  padding-top: 25%;
+  font-weight: 600px;
+}
+
+.btn-hero {
+  border: 1px solid;
+  border-color: white;
+  border-radius: 25px;
+  background-color: transparent;
+}
+
+.match-schedule {
+  text-align: center;
+  font-weight: 600px;
+  margin-bottom: 50px; 
+}
+
+.card-style {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.btn-pos {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+.about-header {
+  background: url(../images/about-img.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.about-img {
+   width: 270px;
+   height:auto;
+   padding-top: 20px;
+}
+
+.contact-header {
+  background: url(../images/contact-img.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.favteam-header {
+   background: url(../images/favteam-img.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
+}
+
+.matches-header {
+   background: url(../images/matches-img.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
+}
+
+.match-table {
+  overflow-x: scroll;
+}
+
+.scorer-header {
+   background: url(../images/scorer-img.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
+}
+
+.scorer-table {
+   overflow-x: scroll;
+}
+
+.standings-header {
+   background: url(../images/standings-img.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
+}
+
+.standings-table {
+ overflow-x: scroll;
+}
+
+.teams-header {
+   background: url(../images/teams-img.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
+}
